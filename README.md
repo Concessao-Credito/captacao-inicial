@@ -1,1 +1,1 @@
-# capitacao-inicial
+# captacao-inicial
